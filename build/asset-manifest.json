@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tarosh-mathuria-portfolio/static/css/main.85e6a003.css",
+    "main.js": "/tarosh-mathuria-portfolio/static/js/main.17410957.js",
+    "index.html": "/tarosh-mathuria-portfolio/index.html",
+    "main.85e6a003.css.map": "/tarosh-mathuria-portfolio/static/css/main.85e6a003.css.map",
+    "main.17410957.js.map": "/tarosh-mathuria-portfolio/static/js/main.17410957.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85e6a003.css",
+    "static/js/main.17410957.js"
+  ]
+}
